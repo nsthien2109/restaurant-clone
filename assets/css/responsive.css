@@ -1,0 +1,30 @@
+@media (max-width: 720px) {
+    #header .header-nav {
+        display: none;
+    }
+    .mg-82 {
+        margin: 0 5px;
+    }
+    #content .about-text {
+        width: 100%;
+    }
+    #content .about-container .about-img {
+        display: none;
+    }
+    .menu-container {
+        display: block;
+    }
+    .menu-container .menu-text {
+        width: 100%;
+    }
+    .menu-container .menu-img {
+        width: 100%;
+        text-align: center;
+    }
+    .menu-container .menu-img img {
+        width: 95%;
+    }
+    .contact-container {
+        margin: 0 10px;
+    }
+}
